@@ -3,8 +3,8 @@ Welcome to the Power BI Projects repository! This repository contains various Po
 # Prerequisites
 To view or work on the Power BI reports in this repository, you will need:
 
-[Power BI Desktop](https://powerbi.microsoft.com/desktop/)
+- [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
 
-Access to the source datasets (instructions included for each project)
+- Access to the source datasets (instructions included for each project)
 
-Power BI Service (optional, for sharing reports online)
+- Power BI Service (optional, for sharing reports online)

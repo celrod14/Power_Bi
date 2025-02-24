@@ -5,6 +5,6 @@ To view or work on the Power BI reports in this repository, you will need:
 
 - [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
 
-- Access to the source datasets (instructions included for each project)
+- Access to the source datasets (included with each project)
 
 - Power BI Service (optional, for sharing reports online)
